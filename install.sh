@@ -9,10 +9,6 @@ echo "╚═══════════════════════�
 echo ""
 
 # Download und installiere .deb
-echo "Installing dependencies..."
-sudo apt-get update
-sudo apt-get install -y curl jq openssl
-
 echo "Downloading Strukturpunkt installer..."
 wget -O strukturpunkt-pi.deb https://github.com/FNCR26/strukturpunkt-installer/releases/latest/download/strukturpunkt-pi.deb
 

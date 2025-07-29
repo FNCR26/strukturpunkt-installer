@@ -1,7 +1,4 @@
 # Strukturpunkt Installer
-
-Echtzeit-Maschinendatenüberwachung für Raspberry Pi
-
 ## Ein-Befehl Installation
 
 ```bash
@@ -24,15 +21,3 @@ strukturpunkt info
 - Strukturpunkt CLI Tool (`strukturpunkt` Befehl)
 - Automatischer Installer für die Anwendung
 - Backup-Scripts
-
-Die eigentliche Anwendung wird während der Installation von `registry.strukturpunkt.info` heruntergeladen.
-
-## Zugriff
-
-Nach erfolgreicher Installation:
-- **Frontend:** http://PI_IP:5180
-- **Backend API:** http://PI_IP:3001
-
-## Unterstützung
-
-Weitere Informationen: [strukturpunkt.info](https://strukturpunkt.info)
